@@ -2,5 +2,7 @@
 
 *.wav
 
+.vs/
+
 bin/
 obj/
